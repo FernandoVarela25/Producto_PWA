@@ -4,7 +4,7 @@ const CACHE_NAME = 'mi-cache';
 const urlsToCache = [
   '/',
   '/portada.html',
-  '/utps.cs',
+  '/utps.png',
   '/script.js'
   // Agrega aquí los archivos que quieres que se almacenen en caché
 ];
